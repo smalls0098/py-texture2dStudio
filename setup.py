@@ -10,7 +10,7 @@ setup(
     description="pytexture2dstudio",
     author="smalls",
     author_email='smalls0098@gmail.com',
-    version="0.1.1",
+    version="0.1.2",
     keywords=["etc", "etc2", "astc", "texture"],
     classifiers=[
         "License :: OSI Approved :: MIT License",
